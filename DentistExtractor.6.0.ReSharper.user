@@ -1,0 +1,58 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5E7034BA-CC74-4675-8D5A-8DE54E57251D/f:Program.cs" caret="1082" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5E7034BA-CC74-4675-8D5A-8DE54E57251D/f:Program.cs" caret="796" fromTop="14" />
+      <File id="5E7034BA-CC74-4675-8D5A-8DE54E57251D/f:Program.cs" caret="827" fromTop="23" />
+      <File id="5E7034BA-CC74-4675-8D5A-8DE54E57251D/f:Program.cs" caret="1100" fromTop="19" />
+      <File id="5E7034BA-CC74-4675-8D5A-8DE54E57251D/f:Program.cs" caret="295" fromTop="2" />
+      <File id="5E7034BA-CC74-4675-8D5A-8DE54E57251D/f:Program.cs" caret="1844" fromTop="23" />
+      <File id="5E7034BA-CC74-4675-8D5A-8DE54E57251D/f:Program.cs" caret="2085" fromTop="24" />
+      <File id="5E7034BA-CC74-4675-8D5A-8DE54E57251D/f:Program.cs" caret="1082" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="link" priority="63" />
+      <Item value="foreach" priority="31" />
+      <Item value="if" priority="31" />
+      <Item value="Url" priority="26" />
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HtmlAgilityPack.HtmlNode">
+      <Item value="Element`0" priority="26" />
+      <Item value="InnerHtml" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HtmlAgilityPack.HtmlDocument">
+      <Item value="DocumentNode" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="26" />
+      <Item value="StartsWith`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
