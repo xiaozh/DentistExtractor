@@ -49,9 +49,8 @@ namespace DentistExtractor
         }
 
         //find out all the dentists formation in a city
-        private List<string> ExtractCity(string state,string city)
+        private void ExtractCity(string state,string city)
         {
-            var ret = new List<string>();
             HtmlWeb web = new HtmlWeb();
             HtmlDocument doc = web.Load(RootUrl + @"/" + state + @"/"+city+@"/");
             var linksOnPage = from lnks in doc.DocumentNode.Descendants()
@@ -79,7 +78,6 @@ namespace DentistExtractor
                 }
             }
 
-            return null;
         }
     }
 }

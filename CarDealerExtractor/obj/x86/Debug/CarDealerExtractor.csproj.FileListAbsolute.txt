@@ -1,0 +1,8 @@
+C:\MyProjects\DentistExtractor\CarDealerExtractor\bin\Debug\CarDealerExtractor.exe
+C:\MyProjects\DentistExtractor\CarDealerExtractor\bin\Debug\CarDealerExtractor.pdb
+C:\MyProjects\DentistExtractor\CarDealerExtractor\bin\Debug\HtmlAgilityPack.dll
+C:\MyProjects\DentistExtractor\CarDealerExtractor\bin\Debug\HtmlAgilityPack.pdb
+C:\MyProjects\DentistExtractor\CarDealerExtractor\bin\Debug\HtmlAgilityPack.xml
+C:\MyProjects\DentistExtractor\CarDealerExtractor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\DentistExtractor\CarDealerExtractor\obj\x86\Debug\CarDealerExtractor.exe
+C:\MyProjects\DentistExtractor\CarDealerExtractor\obj\x86\Debug\CarDealerExtractor.pdb
