@@ -14,7 +14,7 @@ namespace CarDealerExtractor
 
         static void Main()
         {
-
+            file.WriteLine("name,address,city,phone");
             var ce = new CarDealerExtractor();
             ce.ExtractDealers();
             file.Close();
@@ -54,12 +54,8 @@ namespace CarDealerExtractor
                     System.Console.WriteLine("phone: " + phone);
                     System.Console.WriteLine();
 
-                   
-                    file.WriteLine("name: " + name);
-                    file.WriteLine("address: " + address);
-                    file.WriteLine("city: " + city);
-                    file.WriteLine("phone: " + phone);
-                    file.WriteLine();
+
+                    file.WriteLine(name + "," + address + "," + city + "," + phone);
                 }
                 siblingNode = siblingNode.NextSibling;
 
