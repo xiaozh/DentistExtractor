@@ -1,0 +1,6 @@
+C:\MyProjects\DentistExtractor\DBImporter\bin\Debug\DBImporter.exe
+C:\MyProjects\DentistExtractor\DBImporter\bin\Debug\DBImporter.pdb
+C:\MyProjects\DentistExtractor\DBImporter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\DentistExtractor\DBImporter\obj\x86\Debug\DBImporter.exe
+C:\MyProjects\DentistExtractor\DBImporter\obj\x86\Debug\DBImporter.pdb
+C:\MyProjects\DentistExtractor\DBImporter\bin\Debug\MongoDB.dll
