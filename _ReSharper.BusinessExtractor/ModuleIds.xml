@@ -1,4 +1,6 @@
 <Modules>
   <Module PersistentId="6BEE8377-BED2-41F9-8F4A-414A1818B9F0" ModuleId="DBImporter" />
   <Module PersistentId="5E7034BA-CC74-4675-8D5A-8DE54E57251D" ModuleId="DentistExtractor" />
+  <Module PersistentId="57C2F067-6CBB-4C17-9B8B-56B94D261FEC" ModuleId="PlumberExtractor" />
+  <Module PersistentId="2898E3AD-103C-4897-BAC2-B308A1998629" ModuleId="CarDealerExtractor" />
 </Modules>

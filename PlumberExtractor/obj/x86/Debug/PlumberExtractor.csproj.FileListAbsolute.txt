@@ -1,0 +1,8 @@
+C:\MyProjects\DentistExtractor\PlumberExtractor\bin\Debug\PlumberExtractor.exe
+C:\MyProjects\DentistExtractor\PlumberExtractor\bin\Debug\PlumberExtractor.pdb
+C:\MyProjects\DentistExtractor\PlumberExtractor\bin\Debug\HtmlAgilityPack.dll
+C:\MyProjects\DentistExtractor\PlumberExtractor\bin\Debug\HtmlAgilityPack.pdb
+C:\MyProjects\DentistExtractor\PlumberExtractor\bin\Debug\HtmlAgilityPack.xml
+C:\MyProjects\DentistExtractor\PlumberExtractor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\DentistExtractor\PlumberExtractor\obj\x86\Debug\PlumberExtractor.exe
+C:\MyProjects\DentistExtractor\PlumberExtractor\obj\x86\Debug\PlumberExtractor.pdb

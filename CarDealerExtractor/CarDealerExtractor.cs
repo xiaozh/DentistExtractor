@@ -55,7 +55,7 @@ namespace CarDealerExtractor
                     System.Console.WriteLine();
 
 
-                    file.WriteLine(name + "," + address + "," + city + "," + phone);
+                    file.WriteLine(name + "," + address + "," + city + "," + phone.Replace(" ",""));
                 }
                 siblingNode = siblingNode.NextSibling;
 

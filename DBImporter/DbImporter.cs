@@ -91,5 +91,6 @@ namespace DbImporter
         public string state { get; set; }
         public string country { get; set; }
         public string type { get; set; }
+//todo category
     }
 }
